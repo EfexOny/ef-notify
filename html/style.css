@@ -1,0 +1,46 @@
+/* .container{
+    position: absolute;
+    background-color: #3c3c3c;
+    width: 10vw;
+    height: 3vw;
+    right: 1vw;
+    top: 10vw;
+    border-radius: 10px;
+    border: 0.11vw solid #1ed800;
+}
+
+.text{
+    position: absolute;
+    top: 1vw;
+    right: 5.5vw;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    display: inline-block;
+} */
+
+.container {
+    
+    position: absolute;
+    right: 1vw;
+    top: 10vw;;
+    display: none;
+    background-color: #3c3c3c;
+    border-radius: 10px;
+    border: 0.11vw solid red;
+    padding: 1vw;
+  }
+  
+  .text {
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    display: inline-block;
+
+  }
+  
+  .type {
+    position: relative;
+    display: inline-block;
+  }
+  
